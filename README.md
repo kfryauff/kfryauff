@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kfryauff
 - 👀 I’m interested in building better futures for all!
-- 🌱 I’m currently learning Flutter/Dart! Who knew it was so much fun?
+- 🌱 I’m currently playing with ML/AI technologies! Who knew it was so much fun?
 - 💞️ I’m looking to collaborate on anything thoughtful and positive.
 
 <!---
